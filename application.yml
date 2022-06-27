@@ -1,6 +1,6 @@
-spring:
-  cloud:
-    bus:
-      enabled: true
-      refresh:
-        enabled: true
+# spring:
+#   cloud:
+#     bus:
+#       enabled: true
+#       refresh:
+#         enabled: true
