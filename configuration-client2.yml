@@ -1,5 +1,5 @@
 server:
   port: 9091
 configuration:
-  projectName: Spring Cloud V6
-  projectStartDate: 2022-06-25
+  projectName: Spring Cloud V7
+  projectStartDate: 2022-06-26
